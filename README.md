@@ -6,11 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/anupamvaishy1207" target="blank"><img src="https://img.shields.io/twitter/follow/anupamvaishy1207?logo=twitter&style=for-the-badge" alt="anupamvaishy1207" /></a> </p>
 
-- 🌱 I’m currently learning **React NAtive**
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [https://anupamvaishy-portfolio.netlify.app/](https://anupamvaishy-portfolio.netlify.app/)
 
 - 💬 Ask me about **JavaScript, React, MERN, HTML, CSS, JAVA**
+
+- 🌲 My Link Tree are available at [https://anupam-link-tree.netlify.app/](https://anupam-link-tree.netlify.app/)
 
 - 📫 How to reach me **anupamvaishyofficial@gmail.com**
 
