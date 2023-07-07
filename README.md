@@ -9,15 +9,15 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [https://anupamvaishy-portfolio.netlify.app/](https://anupamvaishy-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [[https://anupamvaishy-portfolio.netlify.app/](https://anupams-portfolios.netlify.app/)]
 
 - 💬 Ask me about **JavaScript, React, MERN, HTML, CSS, JAVA**
 
-- 🌲 My Link Tree are available at [https://anupam-link-tree.netlify.app/](https://anupam-link-tree.netlify.app/)
+- 🌲 My Link Tree are available at [[https://anupam-link-tree.netlify.app/](https://anupams-linktree.netlify.app/)]
 
 - 📫 How to reach me **anupamvaishyofficial@gmail.com**
 
-- 📄 Know about my experiences [https://anupamvaishyresume.netlify.app/](https://anupamvaishyresume.netlify.app/)
+- 📄 Know about my experiences [[https://anupamvaishyresume.netlify.app/](https://anupams-resume.netlify.app/)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
